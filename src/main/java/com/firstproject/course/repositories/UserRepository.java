@@ -1,4 +1,4 @@
-package com.firstproject.course;
+package com.firstproject.course.repositories;
 
 import com.firstproject.course.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
